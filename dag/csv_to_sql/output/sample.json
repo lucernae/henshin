@@ -1,0 +1,44 @@
+{
+  'args': {},
+  'data': '{"code": 200, "errors": "", "result": [{"id": 1, "name": "Darth Maul", "status": true}, {"id": 2, "name": "Riou", "status": true}, {"id": 3, "name": "Lazlo", "status": true}, {"id": 4, "name": "Hugo", "status": true}]}',
+  'files': {},
+  'form': {},
+  'headers': {
+    'Accept': '*/*',
+    'Accept-Encoding': 'gzip, deflate',
+    'Content-Length': '218',
+    'Content-Type': 'application/json',
+    'Host': 'httpbin.org',
+    'User-Agent': 'python-requests/2.31.0',
+    'X-Amzn-Trace-Id': 'Root=1-64d8e79c-483605d443a2cc650155cb7a'
+  },
+  'json': {
+    'code': 200,
+    'errors': '',
+    'result': [
+      {
+        'id': 1,
+        'name': 'Darth Maul',
+        'status': True
+      },
+      {
+        'id': 2,
+        'name': 'Riou',
+        'status': True
+      },
+      {
+        'id': 3,
+        'name': 'Lazlo',
+        'status': True
+      },
+      {
+        'id': 4,
+        'name': 'Hugo',
+        'status': True
+      }
+    ]
+  },
+  'method': 'POST',
+  'origin': '180.241.242.164',
+  'url': 'https://httpbin.org/anything'
+}
